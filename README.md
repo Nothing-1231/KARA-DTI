@@ -1,6 +1,6 @@
 # KARA-DTI
 
-KARA-DTI is a deep learning framework for predicting drug–target interactions (DTIs).  
+KARA-DTI is a deep learning framework for predicting drug–target interactions.  
 The model integrates multi-source biochemical features, a learnable router-enhanced graph network, and a dual-encoder architecture to capture complex cross-modal relationships between drugs and proteins.
 
 ---
