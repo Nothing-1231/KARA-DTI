@@ -41,6 +41,7 @@ Due to GitHub file size limitations, the datasets are not included in this repos
 This script generates four data splitting strategies:
 
 Split	Description
+
 --split 0 (S1)	Random split (8:1:1 train/val/test), repeated 20 times
 
 --split 1 (S2)	Cold-drug: unseen drugs in test set
