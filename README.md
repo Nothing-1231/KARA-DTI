@@ -42,8 +42,11 @@ This script generates four data splitting strategies:
 
 Split	Description
 --split 0 (S1)	Random split (8:1:1 train/val/test), repeated 20 times
+
 --split 1 (S2)	Cold-drug: unseen drugs in test set
+
 --split 2 (S3)	Cold-target: unseen targets with CD-HIT 40% sequence clustering
+
 --split 3 (S4)	Cold-pair: both drugs and targets unseen with CD-HIT clustering
 
 Users should download the original datasets and place them in the following directory structure:
