@@ -25,7 +25,7 @@ Key dependencies include:
 ### Additional Tools
 
 - **CD-HIT**: Required for protein sequence clustering in cold-start splits.
-  - Installation: `conda install -c bioconda cd-hit` or `sudo apt-get install cd-hit`
+  Installation: `conda install -c bioconda cd-hit` or `sudo apt-get install cd-hit`
 
 ## Dataset
 
